@@ -136,9 +136,9 @@
     <string name="hint_category">Category:</string>
     <string name="start_your_search">Start your Search</string>
     <string name="hint_keyword">Keyword</string>
-    <string name="title_view_all"><![CDATA[View All]]></string>
+    <string name="title_view_all"><![CDATA[Ver todos]]></string>
     <string name="title_featured_listing">Featured Listing</string>
-    <string name="title_top_categories">Top Categories</string>
+    <string name="title_top_categories">Categorias</string>
     <string name="title_advanced_search">Advanced Search</string>
     <string name="title_search_now">Search Now</string>
     <string name="title_register">Register</string>
