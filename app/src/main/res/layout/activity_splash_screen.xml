@@ -6,4 +6,8 @@
     android:background="@drawable/splash"
     tools:context="com.tregix.serviceprovider.activities.SplashScreen">
 
+
+
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
